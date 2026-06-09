@@ -1,0 +1,5 @@
+print("= = = = = = [ - ][ = ][ x ]")
+print("|                         |")
+print("|          HELLO          |")
+print("|                         |")
+print("= = = = = = = = = = = = = =")

@@ -1,0 +1,6 @@
+print("- - - - - - - - - - - - - - - -")
+print("Name: Rejep")
+print("Surname: Ashyrov")
+print("Region: Ashgabat")
+print("Age: 20")
+print("- - - - - - - - - - - - - - - -")
