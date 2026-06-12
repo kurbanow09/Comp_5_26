@@ -1,0 +1,8 @@
+Phone_Number = int(input())
+print("Phone number", Phone_Number)
+surname = input()
+print("Enter Surname", surname)
+region = input()
+print("Enter Region", region)
+print("<<<>>>")
+print(name, surname, region)

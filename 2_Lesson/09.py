@@ -1,0 +1,6 @@
+print("* * * Toleg App * * *")
+print("Phone Number: ")
+number = int(input())
+print("Quantity:")
+quantity = int(input())
+print(quantity, "manats Were transferred to", number)

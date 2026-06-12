@@ -1,0 +1,12 @@
+print("Enter name")
+name = input()
+print("Enter Surname")
+surname = input()
+print("Enter Region")
+region = input()
+
+print("<<<Personal Information Card>>>")
+print("Name:" name)
+print("Surname:" surname)
+print("Region:" region)
+print("--" *10)

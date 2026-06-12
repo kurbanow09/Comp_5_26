@@ -1,0 +1,5 @@
+print("Adyn Name? ")
+name = input()
+print("Familiyan Name? ")
+Surname = input()
+print("Salam", name, Surname)
