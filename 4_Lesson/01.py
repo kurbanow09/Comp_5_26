@@ -1,0 +1,17 @@
+number = int(input("Enter id: "))
+name = (input("Enter name: "))
+surname = (input("Enter surname: "))
+group = (input("Enter group: "))
+birthday = (input("Enter birthday: "))
+phone_number = int(input("Enter phone number: "))
+teacher = (input("Enter teacher's name: : "))\
+
+print(" * " * 10)
+print("Student Info: ")
+print("T/B: ", number)
+print("Ady: ", name)
+print("Familiyasy :", surname)
+print("Topary: ", group)
+print("Doglan Senesi: ", birthday)
+print("Mobil Belgisi: ", phone_number)
+print("Mugallym: ", teacher)
