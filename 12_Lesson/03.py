@@ -1,0 +1,10 @@
+stundents = ["Rejep", "Meret", "Oraz", "Gurban", "Ashyr", "Sapar"]
+print(stundents[0:])
+stundents.insert(3, "Bayram")
+print(stundents)
+stundents.remove("Gurban")
+print(stundents)
+stundents.pop(1)
+print(stundents)
+print(stundents.index("Ashyr"))
+print(stundents.count("Oraz"))
