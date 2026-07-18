@@ -10,6 +10,6 @@ for i in range(1, 4):
     if sayla == birzat:
         sowly += 1
     else:
-        sowsyz += 1
+        sowsuz += 1
 print(f"{sowly} gezek sowly boldy!")
-print(f"{sowsyz} gezek sowly boldy!")
+print(f"{sowsuz} gezek sowly boldy!")
